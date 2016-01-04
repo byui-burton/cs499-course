@@ -320,3 +320,7 @@ table#bh tr:nth-child(even) td {
   vertical-align: middle;
   padding: 8px;
 }
+
+.faq {
+	font-weight:bold;
+}
